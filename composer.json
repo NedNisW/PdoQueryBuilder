@@ -1,0 +1,12 @@
+{
+    "name": "nednisw/query-builder",
+    "description": "PDO Query Builder library",
+    "type": "library",
+    "authors": [
+        {
+            "name": "NedNisW",
+            "email": "nednisw@dwandke.de"
+        }
+    ],
+    "require": {}
+}
