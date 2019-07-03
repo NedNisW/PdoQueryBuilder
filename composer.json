@@ -1,5 +1,5 @@
 {
-    "name": "nednisw/query-builder",
+    "name": "nednisw/pdo-query-builder",
     "description": "PDO Query Builder library",
     "type": "library",
     "authors": [
@@ -8,5 +8,10 @@
             "email": "nednisw@dwandke.de"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "NedNisW/PdoQueryBuilder": "src/"
+        }
+    },
     "require": {}
 }
